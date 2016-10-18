@@ -34,5 +34,8 @@
   },
   "dependencies": {
     "caniuse-db": "^1.0.30000161"
-  }
+  },
+  "contributors":[
+    "Surender Kumar"
+  ]
 }
